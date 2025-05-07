@@ -11,7 +11,7 @@ Your task is to **replicate a mobile app screen** based on the design files we�
 ## 📬 Design Assets
 
 All required design assets (PNG/SVG) have been sent to your registered email address. Please check your inbox for a mail from **techcatalift@gmail.com** with the subject line:  
-**"Catalift Developer Task – Assets Inside"**
+**"Congratulations – Move Forward with Catalift's Developer Task!"**
 
 ---
 
@@ -20,7 +20,7 @@ All required design assets (PNG/SVG) have been sent to your registered email add
 1. **Fork this repository** to your own GitHub account.
 2. Create a new branch (optional but preferred):  
    `git checkout -b your-name-task`
-3. Build the screen using Flutter. (If you prefer to build using different tech stack and not flutter immediatly mail techcatalift@gmail.com)
+3. Build the screen using Flutter. (If you prefer to build using different tech stack and not flutter immediately mail techcatalift@gmail.com with subject as "change task repo")
 4. Maintain a clean and modular code structure.
 5. Commit and push your code to your forked repository.
 6. Submit the link to your public fork using the official submission form.
@@ -38,7 +38,7 @@ All required design assets (PNG/SVG) have been sent to your registered email add
 
 ## ⚠️ Important Notes
 
-- Submit your task within **5 days** of receiving this link.
+- Submit your task within **7 days** of receiving this link.
 - Your forked repository must be **public** for review.
 
 ---
